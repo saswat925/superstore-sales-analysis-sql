@@ -1,15 +1,19 @@
 📊 Superstore Sales Analysis (SQL | Snowflake | Power BI)
+
 🧾 Project Overview
 This project analyzes a Global Superstore dataset containing:
 📦 51,252 transactions
 👥 4,873 customers
 🌍 7 global markets
+
 🧮 Tools used: SQL, Snowflake, Power BI
+
 🎯 Objective:
 To identify:
 Where the business is making profit
 Where money is being lost
 Data-driven recommendations for growth
+
 🧹 Data Cleaning
 Before analysis, raw data was cleaned:
 Converted text-based dates → proper DATE format
@@ -18,20 +22,25 @@ Removed 38 duplicate records
 Standardized market names
 Trimmed inconsistent whitespace
 👉 Lesson: Clean data = reliable insights
+
 📊 Key Business Metrics
 💰 Total Sales: $12.63M
 📈 Total Profit: $1.46M
 📉 Profit Margin: 11.60%
 🧾 Total Orders: 25,035
 🏷️ Avg Discount: 8.14%
+
 👉 Insight:
 High sales, but low profit margin indicates cost and discount pressure
+
 📈 Sales Growth (Yearly Trend)
 2011 → $2.26M
 2012 → $2.67M (+18%)
 2013 → $3.40M (+27%)
 2014 → $4.30M (+26%)
+
 👉 Sales nearly doubled in 4 years, showing strong growth trajectory.
+
 👥 Customer Segments
 Segment
 Sales
@@ -63,14 +72,20 @@ Furniture
 $4.11M
 $285K
 6.94%
+
 👉 Furniture is the weakest category due to low profitability.
+
 ⚠️ Major Loss Driver
+
 📉 Sub-Category: Tables
+
 Sales: $757K
 Profit: - $64K
 Margin: -8.47%
 👉 Tables alone are dragging down Furniture profitability.
+
 💸 Discount Impact Analysis
+
 Discount Range
 Profit Impact
 0–5%
@@ -84,7 +99,8 @@ Profit Impact
 30%+
 -$793K
 👉 Discounts above 20% destroyed $814K profit
-🌍 Market Performance
+
+🌍 Market Performance,
 Market
 Sales
 Margin
@@ -134,6 +150,7 @@ Optimize shipping & operational cost
 Business is growing (90% revenue growth in 4 years),
 but profit is leaking due to aggressive discounting.
 Fix pricing strategy → potential $2M+ annual profit
+
 👨‍💻 Author
 Saswat Betta
 SQL | Snowflake | Power BI | Data Analytics
