@@ -125,20 +125,24 @@ $67K
 👉 Canada = high margin opportunity
 👉 EMEA = low efficiency zone
 🏆 Top & Worst Products
+
 🟢 Top Performers:
 Canon Imageclass Copier → +$25K
 Cisco Smart Phone → +$17K
 Motorola Smart Phone → +$17K
+
 🔴 Loss Makers:
 Cubify 3D Printer → -$8.8K
 Lexmark Printer → -$4.5K
 Motorola Cordless Phone → -$4.4K
+
 🚨 Key Findings
 Discounts >20% = major profit killer
 Tables = only loss-making sub-category
 Technology = best performing category
 Canada = high margin growth opportunity
 EMEA & SE Asia = low profitability regions
+
 📌 Recommendations
 Limit discounts to ≤ 20%
 Fix or remove Tables sub-category
@@ -146,6 +150,7 @@ Scale Technology products
 Expand in Canada market
 Reduce losses in EMEA & SE Asia
 Optimize shipping & operational cost
+
 🧠 Final Insight
 Business is growing (90% revenue growth in 4 years),
 but profit is leaking due to aggressive discounting.
