@@ -1,7 +1,7 @@
 -- =============================================
 -- SUPERSTORE SALES ANALYSIS | SQL on Snowflake
 -- Dataset: 51,252 rows | 25,035 orders | 4,873 customers
--- Author: Saswat Betta
+-- Author: Saswat Betta Aptakam
 -- =============================================
 
 
