@@ -1,7 +1,9 @@
 📊 Superstore Sales Analysis (SQL | Snowflake | Power BI)
 
 🧾 Project Overview
+
 This project analyzes a Global Superstore dataset containing:
+
 📦 51,252 transactions
 👥 4,873 customers
 🌍 7 global markets
@@ -9,6 +11,7 @@ This project analyzes a Global Superstore dataset containing:
 🧮 Tools used: SQL, Snowflake, Power BI
 
 🎯 Objective:
+
 To identify:
 Where the business is making profit
 Where money is being lost
@@ -21,6 +24,7 @@ Fixed 278 corrupted product names
 Removed 38 duplicate records
 Standardized market names
 Trimmed inconsistent whitespace
+
 👉 Lesson: Clean data = reliable insights
 
 📊 Key Business Metrics
@@ -54,7 +58,9 @@ $3.82M
 Home Office
 $2.31M
 11.99%
+
 👉 Consumer drives revenue, Home Office is most efficient.
+
 📦 Category Performance
 Category
 Sales
@@ -122,6 +128,7 @@ $806K
 Canada
 $67K
 26.62%
+
 👉 Canada = high margin opportunity
 👉 EMEA = low efficiency zone
 🏆 Top & Worst Products
